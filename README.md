@@ -1,0 +1,26 @@
+# Big Data
+
+http://www.lynda.com/Hadoop-tutorials/Techniques-Concepts-Big-Data/158656-2.html
+
+- Introduction
+
+- Welcome
+
+1. What Is Big Data?
+    - The three Vs of big data
+        - Volume
+        - Velocity
+        - Variety
+    - Does big data need all three?
+
+2. How Is Big Data used? 
+    - Understanding big data for consumers
+    - Understanding big data for business
+    - Understanding big data for research
+
+3. Big Data and Data Science
+    - Ten ways big data is different from small data
+    - The three facets of data science
+    - Types and skills in data science
+    - Data science without big data
+    - Big data without data science
