@@ -31,7 +31,7 @@ http://www.lynda.com/Hadoop-tutorials/Techniques-Concepts-Big-Data/158656-2.html
         9. Introspection
         10. Analysis
     - The three facets of data science
-    ![Three Facets](./files/01-three-facets.png 100x20)
+    ![Three Facets](./files/01-three-facets.png)
     - Types and skills in data science
     - Data science without big data
     - Big data without data science
