@@ -20,16 +20,16 @@ http://www.lynda.com/Hadoop-tutorials/Techniques-Concepts-Big-Data/158656-2.html
 
 3. Big Data and Data Science
     - Ten ways big data is different from small data
-        1.Goals 
-        2.Location
-        3.Data Structure
-        4.Data Preparation
-        5.Longevity
-        6.Measurements
-        7.Reproducibility
-        8.Stakes
-        9.Introspection
-        10.Analysis
+        1. Goals 
+        2. Location
+        3. Data Structure
+        4. Data Preparation
+        5. Longevity
+        6. Measurements
+        7. Reproducibility
+        8. Stakes
+        9. Introspection
+        10. Analysis
     - The three facets of data science
     - Types and skills in data science
     - Data science without big data
